@@ -1,0 +1,1 @@
+# Aray-z_Olu-turma_-GUI-_Tkinter
